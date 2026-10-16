@@ -3,6 +3,7 @@
 Type how you feel and watch a generated landscape change with you: stormy to sunny, still to restless, night to day.
 
 One static HTML file. No build step, no dependencies, nothing leaves your browser.
+![Uploading image.png…]()
 
 ## How it works
 
@@ -16,6 +17,7 @@ One static HTML file. No build step, no dependencies, nothing leaves your browse
 ## Run it
 
 Open `index.html`, or host it with GitHub Pages (**Settings → Pages → Deploy from a branch → `main` / root**).
+
 
 ## Ideas for later
 
