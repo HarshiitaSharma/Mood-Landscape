@@ -3,6 +3,8 @@
 Type how you feel and watch a generated landscape change with you: stormy to sunny, still to restless, night to day.
 
 One static HTML file. No build step, no dependencies, nothing leaves your browser.
+<img width="1025" height="795" alt="image" src="https://github.com/user-attachments/assets/de523f5d-1519-4171-9d61-7742727a10c1" />
+
 <img width="931" height="860" alt="image" src="https://github.com/user-attachments/assets/5e24537a-6c8e-46d2-b99f-98c739ffdfa6" />
 
 
